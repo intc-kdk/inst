@@ -21,7 +21,7 @@
     <string name="S_01_start">開　始</string>
     <string name="S_02_title">停復電作業支援システム</string>
     <string name="S_02_start_button">開　始</string>
-    <string name="S_02_start_text">setup作成用.xlsm</string>
+    <string name="S_02_start_text"></string>
     <string name="S_02_end_button">終　了</string>
     <string name="S_02_end_text">安全に終了します</string>
     <string name="S_02_procedure_button">手順確認</string>
